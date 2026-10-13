@@ -94,7 +94,7 @@
 									"type": "DatasetReference",
 									"parameters": {
 										"p_file": {
-											"value": "@item().file",
+											"value": "@{item().file}.json",
 											"type": "Expression"
 										}
 									}
