@@ -1,0 +1,15 @@
+{
+	"name": "adf-uberproject-ash",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b82312f5-1581-4690-ac22-95309690d29f",
+		"tenantId": "11f1310d-6024-4606-a127-82c3ff222f70"
+	}
+}
