@@ -1,72 +1,72 @@
 [
   {
     "city_id": 1,
-    "city": "N New York",
+    "city": "New York",
     "state": "NY",
     "region": "Northeast",
-    "updated_at": "2026-10-15T21:10:53.965+00:00"
+    "updated_at": "2026-10-15T21:15:53.965+00:00"
   },
   {
     "city_id": 2,
-    "city": "N Los Angelas",
+    "city": "Los Angelas",
     "state": "CA",
     "region": "West",
-    "updated_at": "2026-10-15T21:10:53.965+00:00"
+    "updated_at": "2026-10-15T21:15:53.965+00:00"
   },
   {
     "city_id": 3,
-    "city": "N Chicago",
+    "city": "Chicago",
     "state": "IL",
     "region": "Midwest",
-    "updated_at": "2026-10-15T21:10:53.965+00:00"
+    "updated_at": "2026-10-15T21:15:53.965+00:00"
   },
   {
     "city_id": 4,
-    "city": "N Houston",
+    "city": "Houston",
     "state": "TX",
     "region": "South",
-    "updated_at": "2026-10-15T21:10:53.965+00:00"
+    "updated_at": "2026-10-15T21:15:53.965+00:00"
   },
   {
     "city_id": 5,
-    "city": "N Phoenix",
+    "city": "Phoenix",
     "state": "AZ",
     "region": "Southwest",
-    "updated_at": "2026-10-15T21:10:53.965+00:00"
+    "updated_at": "2026-10-15T21:15:53.965+00:00"
   },
   {
     "city_id": 6,
-    "city": "N Philadelphia",
+    "city": "Philadelphia",
     "state": "PA",
     "region": "Northeast",
-    "updated_at": "2026-10-15T21:10:53.965+00:00"
+    "updated_at": "2026-10-15T21:15:53.965+00:00"
   },
   {
     "city_id": 7,
-    "city": "N San Antonio",
+    "city": "San Antonio",
     "state": "TX",
     "region": "South",
-    "updated_at": "2026-10-15T21:10:53.965+00:00"
+    "updated_at": "2026-10-15T21:15:53.965+00:00"
   },
   {
     "city_id": 8,
-    "city": "N San Diego",
+    "city": "San Diego",
     "state": "CA",
     "region": "West",
-    "updated_at": "2026-10-15T21:10:53.965+00:00"
+    "updated_at": "2026-10-15T21:15:53.965+00:00"
   },
   {
     "city_id": 9,
-    "city": "N Dallas",
+    "city": "Dallas",
     "state": "TX",
     "region": "South",
-    "updated_at": "2026-10-15T21:10:53.965+00:00"
+    "updated_at": "2026-10-15T21:15:53.965+00:00"
   },
   {
     "city_id": 10,
-    "city": "N San Jose",
+    "city": "San Jose",
     "state": "CA",
     "region": "West",
-    "updated_at": "2026-10-15T21:10:53.965+00:00"
+    "updated_at": "2026-10-15T21:15:53.965+00:00"
   }
 ]
