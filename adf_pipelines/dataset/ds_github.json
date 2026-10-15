@@ -1,0 +1,27 @@
+{
+	"name": "ds_github",
+	"properties": {
+		"description": "dataset for git hub Raw Data Folder having json files",
+		"linkedServiceName": {
+			"referenceName": "ls_github",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"p_file": {
+				"type": "string"
+			}
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation",
+				"relativeUrl": {
+					"value": "AshmitaSarkar92/Uber-Azure-DE-Project/refs/heads/main/Raw_Data/@{dataset().p_file}.json",
+					"type": "Expression"
+				}
+			}
+		},
+		"schema": {}
+	}
+}
